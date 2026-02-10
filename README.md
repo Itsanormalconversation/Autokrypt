@@ -129,7 +129,7 @@ Du darfst Autokrypt frei ausprobieren, erweitern und testen – solange kein Gel
 📬 Wie erhalte ich eine kommerzielle Lizenz?
 Für eine kommerzielle Lizenz kontaktiere bitte:
 
-📧 [Deine E‑Mail hier einfügen]
+📧 corneliusgaus1996@gmail.com
 
 Bitte gib folgende Informationen an:
 
