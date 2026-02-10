@@ -55,3 +55,26 @@ Die Formel ist flexibel und kann für verschiedene Datenarten angepasst werden.
 
 ## 📁 Projektstruktur
 
+/autokrypt
+├── src/
+│   ├── core/              # Kernlogik der Mustererkennung
+│   ├── modules/           # Erweiterbare Module (Phishing, Logs, etc.)
+│   └── web/               # Web-Integration (optional)
+├── examples/              # Beispielanwendungen
+├── docs/                  # Dokumentation
+├── README.md
+└── LICENSE
+
+
+
+---
+
+## 🧩 Beispiel: Nutzung der Formel
+
+```php
+require_once 'src/core/AutokryptFormula.php';
+
+$formula = new AutokryptFormula();
+$score = $formula->analyze($inputData);
+
+echo "Autokrypt Score: " . $score;
